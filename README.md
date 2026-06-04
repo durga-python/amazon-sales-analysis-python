@@ -44,17 +44,15 @@ This project analyzes Amazon sales data to understand revenue trends, category p
 ## Dashboard Screenshots
 
 ### Monthly Revenue Trend
-
-![Monthly Revenue](images/monthly_revenue.png)
+![Monthly Revenue](monthly_revenue.png)
 
 ### Revenue by Category
-
-![Category Analysis](images/category_analysis.png)
+![Category Analysis](category_analysis.png)
 
 ### State Analysis
-
-![State Analysis](images/state_analysis.png)
+![State Analysis](state_analysis.png)
 
 ### Order Status Analysis
+![Order Status](status_analysis.png)
 
 ![Order Status](images/status_analysis.png)
